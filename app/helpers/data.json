@@ -1,0 +1,49 @@
+[
+  {
+  "income": [
+    {
+      "category": "Salary",
+      "amount": 5000
+    },
+    {
+      "category": "Investments",
+      "amount": 2000
+    },
+    {
+      "category": "Rental Income",
+      "amount": 1000
+    },
+    {
+      "category": "Other",
+      "amount": 500
+    }
+  ]
+},
+{  "expenses": [
+    {
+      "category": "Housing",
+      "amount": 2000
+    },
+    {
+      "category": "Transportation",
+      "amount": 500
+    },
+    {
+      "category": "Food",
+      "amount": 1000
+    },
+    {
+      "category": "Utilities",
+      "amount": 500
+    },
+    {
+      "category": "Entertainment",
+      "amount": 500
+    },
+    {
+      "category": "Other",
+      "amount": 500
+    }
+  ]
+}
+]

@@ -1,5 +1,5 @@
 export const colors={
-    white: "#e3e0e6",
+    white: "#F8F8F8",
     shark: "#23252b",
     gray: "#888484",
     greenspring: "#b5c3b1",
@@ -13,6 +13,7 @@ export const colors={
     black:"#000000",
     lightbrown:"#D0C1A8",
     greytext:"#bbb7b3",
-    lightgrey:"#DDE3ED"
+    lightgrey:"#DDE3ED",
+    lightwhite:'#FFFF'
     
 }
